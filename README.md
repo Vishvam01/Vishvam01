@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DudeCraz-red)](https://www.youtube.com/channel/UCOME26woqjnsGJ36riW8rdg)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishvam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishvam-parihar-a02609276/)](https://www.linkedin.com/in/vishvam-parihar-a02609276/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
