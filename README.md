@@ -5,9 +5,9 @@
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vishvam-yellow)](https://stackoverflow.com/users/21851471/vishvam)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+
+
+I am a dedicated tech enthusiast with a Bachelor’s degree in Computer Applications (BCA) and currently pursuing an MCA in Artificial Intelligence and Machine Learning from Chandigarh University. My skill set includes programming languages like Python, Java, and JavaScript, as well as web development technologies such as HTML, CSS, Bootstrap, and MongoDB. I am also proficient in data analysis tools like SQL, Excel, PowerPoint, and Google Sheets, and have a growing expertise in R programming for statistical analysis. I am passionate about leveraging technology to solve complex problems and am eager to contribute innovative solutions to dynamic organizations.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Vishvam01/count.svg)
