@@ -65,6 +65,9 @@ Languages and Tools:
     </a>   
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175200.png?f=webp&w=256" alt="html5" width="40" height="40" />
+    </a>  
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+        <img src="https://e7.pngegg.com/pngimages/793/545/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png" alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
