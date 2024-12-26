@@ -64,7 +64,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>   
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23Ay7DJERV_HeW-VEVoj34SL_HYIGdkdRQ&s" alt="html5" width="40" height="40" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175200.png?f=webp&w=256" alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
