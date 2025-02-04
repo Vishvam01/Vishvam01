@@ -75,6 +75,9 @@ Languages and Tools:
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </a>
+     <a href="https://kotlinlang.org/docs/arrays.html" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dkotlin&psig=AOvVaw00grdDWCL-tUW9IBzX0Vep&ust=1738780517993000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD0q6zUqosDFQAAAAAdAAAAABAE" alt="kotlin" width="40" height="40" />
+    </a>
 <!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a> -->
