@@ -10,7 +10,7 @@
 I am a dedicated tech enthusiast with a Bachelor’s degree in Computer Applications (BCA) and currently pursuing an MCA in Artificial Intelligence and Machine Learning from Chandigarh University. My skill set includes programming languages like Python, Java, and JavaScript, as well as web development technologies such as HTML, CSS, Bootstrap, and MongoDB. I am also proficient in data analysis tools like SQL, Excel, PowerPoint, and Google Sheets, and have a growing expertise in R programming for statistical analysis. I am passionate about leveraging technology to solve complex problems and am eager to contribute innovative solutions to dynamic organizations.
 
 
-![Visitor Count](https://profile-counter.glitch.me/Vishvam01/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/Vishvam01/count.svg) -->
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
